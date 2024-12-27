@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">I'm Tarun Kumar, a passionate Web Developer and Competitive Programmer currently in my final year of B-Tech from IIIT Dharwad and I love turning ideas into reality through code and am constantly exploring new technologies and tools.</h2>
+<h2 align="left">I'm Tarun Kumar, a passionate Web Developer and Competitive Programmer currently in my final year of B-Tech at IIIT Dharwad and I love turning ideas into reality through code and am constantly exploring new technologies and tools.</h2>
 
 ###
 
